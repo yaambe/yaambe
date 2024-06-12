@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ahmed Yameen</h1>
-<h3 align="center">A passionate ML Engineer from Maldives</h3>
+## <p align="center">Hey, I'm <b>Yameen</b></p>
+
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+</h3>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/6b/c1/2d/6bc12dcd8d60109bd357f8628f762296.gif" alt="yaambe" />
@@ -8,7 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=yaambe&label=Profile%20views&color=0e75b6&style=flat" alt="yaambe" />
 </p>
 
-- 💬 Ask me about **Python**
 - 📫 How to reach me **yaambe27@gmail.com**
 - ⚡ Fun fact **I play chess!**
 
@@ -21,6 +27,12 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamyn_" height="30" width="40" />
   </a>
 </p>
+
+<h1 align="center"> 🔥 Contributions: </h1>
+
+<p align= "center">	
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&show_icons=true&theme=onedark" />
+	</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -75,22 +87,4 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/yaambe">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yaambe" />
-  </a>
-</p>
-<br><br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaambe&show_icons=true&locale=en&layout=compact" alt="yaambe" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaambe&show_icons=true&locale=en" alt="yaambe" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaambe&" alt="yaambe" />
 </p>
