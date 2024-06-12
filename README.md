@@ -1,8 +1,8 @@
 ## <p align="center">Hey, I'm <b>Yameen</b></p>
 
-<h3 align="center">
+<h3 align="center"><b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
-</h3>
+</b></h3>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
@@ -18,11 +18,9 @@
 - 📫 How to reach me **yaambe27@gmail.com**
 - ⚡ Fun fact **I play chess!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/yameen24" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yameen24" height="30" width="40" />
-  </a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://fb.com/yameen24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yameen24" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/yamyn_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamyn_" height="30" width="40" />
   </a>
