@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-```ts
+```python
 def know_your_self(the_ending=None, the_distance=None):
     if the_ending is None and the_distance is None:
         print("You're about to know who you really are...")
